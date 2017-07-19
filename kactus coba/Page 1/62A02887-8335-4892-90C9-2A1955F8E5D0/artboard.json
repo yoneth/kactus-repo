@@ -52,10 +52,16 @@
     {
       "class": "symbolInstance",
       "id": "26B0FAD9-C997-461B-88A2-6332F3B5D0B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDD21487-90BE-43E7-ABD1-75D787564778"
     }
   ],
   "name": "iPhone 7",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 0,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

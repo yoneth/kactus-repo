@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "B95DC39D-363E-42D9-81DE-D0B396E23C5F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +54,8 @@
   ],
   "name": "Bunderan",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 0,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

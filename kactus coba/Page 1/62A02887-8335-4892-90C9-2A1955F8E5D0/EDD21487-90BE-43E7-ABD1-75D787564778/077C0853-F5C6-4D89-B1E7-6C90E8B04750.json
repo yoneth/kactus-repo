@@ -1,7 +1,7 @@
 {
   "_class": "oval",
   "booleanOperation": -1,
-  "do_objectID": "51BE49CF-3595-4483-A771-1FFF90FD4D34",
+  "do_objectID": "077C0853-F5C6-4D89-B1E7-6C90E8B04750",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 88,
+    "height": 44,
+    "width": 174,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "path": {
     "_class": "path",
     "isClosed": true,
-    "pointRadiusBehaviour": 0,
+    "pointRadiusBehaviour": 1,
     "points": [
       {
         "_class": "curvePoint",
@@ -74,7 +74,7 @@
       }
     ]
   },
-  "resizingConstraint": 0,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false
